@@ -1,0 +1,9 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.error-style {
+  color: red;
+  font-size: 14px;
+}
