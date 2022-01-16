@@ -1,4 +1,4 @@
-# react-peoplemgm
+# react-peoplemgmt-app
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-kehrvz)
 
