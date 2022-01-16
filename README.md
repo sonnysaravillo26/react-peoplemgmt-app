@@ -45,7 +45,7 @@
 
 `SAMPLE Data - JSON format`
 
-- Check document data.js
+- Check document file, src/services/data.js
 
 ```
     {
