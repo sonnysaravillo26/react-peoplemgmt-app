@@ -1,4 +1,4 @@
-# react-kehrvz
+# react-peoplemgm
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-kehrvz)
 
@@ -92,3 +92,6 @@
 
 - Back end framework with API
 - Database
+
+`Author`
+Sonny
