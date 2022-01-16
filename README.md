@@ -24,7 +24,7 @@
   working back-end.
 - Produce short document stating how you would design a way to store the data and consider how you would report key metrics.
 
-`` DEVELOPER'S DOCUMENTATION
+` DEVELOPER'S DOCUMENTATION`
 
 `People Management System Description`
 
@@ -94,4 +94,5 @@
 - Database
 
 `Author`
-Sonny
+
+- Sonny
